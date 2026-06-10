@@ -6,6 +6,7 @@ Bursa Teknik Üniversitesi — Doğal Dil İşleme Dersi Projesi
 2025 – 2026 Bahar Dönemi
 ## katkı sağlayanlar 
 Tuğba Çevik 223608859074
+
 Selin Şentürk 22360859043
 
 ---
